@@ -13,8 +13,8 @@ menu: "main"
   </p>
   <p>
     <label>Your Role: <select name="role[]" multiple>
-      <option value="leader">Leader</option>
-      <option value="follower">Follower</option>
+      <option value="female">Leader</option>
+      <option value="male">Follower</option>
     </select></label>
   </p>
   <p>
@@ -22,4 +22,4 @@ menu: "main"
   </p>
   <p>
     <button type="submit">Send</button>
-    
+
