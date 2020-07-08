@@ -35,3 +35,8 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/ACS_Smile.jpg"
   recent_posts_number = 2
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
