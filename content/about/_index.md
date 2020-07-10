@@ -6,11 +6,12 @@ draft: false
 
 My name is __Precious Adewunmi__, I am a first year Computer Science and Mathematics student at the University of York. ![yorkpicture](yorkpicture.JPG) Throwback to first year
 
-My passions are 
-- Nigerian Cusine 
+My passions 
+<button type="button"> Passions</button>
+- Nigerian Cusine and <a href="https://www.instagram.com/cookingwithsach/" target="_blank">Cooking Recipe</a> 
 - Numbers and Data (*typical of a mathematics student*)
-- Reading [My Reading List](https://www.youtube.com/watch?v=1K645YXdEJY)
-- Inspiring females to students to enjoy STEM subjects and assiting students in failing educational system to excel
+- Reading [My Reading List](https://www.youtube.com/watch?v=1K645YXdEJY) if you have any recommend book please link it  <input type="text" placeholder="BookstoRead URL">
+- Inspiring females to students to enjoy STEM subjects and assiting students in failing educational system to excel. 
 
 I am inquistive about **Data security**, such as what are cookies, how big technology firm process our data and how do thrid party companies benefit from this. 
 
